@@ -1,1 +1,3 @@
 # primeiro-programa
+
+Editado para testar o comando GIT STATUS no prompt... 
