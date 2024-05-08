@@ -1,12 +1,41 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jhxsa\\OneDrive\\Documentos\\Arquivos\\ALURA\\PROCERGS\\C#\\PrimeiroPrograma\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC2B-C951-478C-8C1A-B6AAB7AE7177}|PrimeiroPrograma\\PrimeiroPrograma.csproj|c:\\users\\jhxsa\\onedrive\\documentos\\arquivos\\alura\\procergs\\c#\\primeiroprograma\\primeiroprograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3FFC2B-C951-478C-8C1A-B6AAB7AE7177}|PrimeiroPrograma\\PrimeiroPrograma.csproj|solutionrelative:primeiroprograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhxsa\\OneDrive\\Documentos\\Arquivos\\ALURA\\PROCERGS\\C#\\PrimeiroPrograma\\PrimeiroPrograma\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiroPrograma\\Program.cs",
+              "ToolTip": "C:\\Users\\jhxsa\\OneDrive\\Documentos\\Arquivos\\ALURA\\PROCERGS\\C#\\PrimeiroPrograma\\PrimeiroPrograma\\Program.cs",
+              "RelativeToolTip": "PrimeiroPrograma\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:21:03.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
