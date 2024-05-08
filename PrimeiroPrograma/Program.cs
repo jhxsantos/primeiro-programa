@@ -22,7 +22,7 @@ void ExibirLogo()
 
 }
 
-void ExibirOpcoesDoMenu() // Exibe as opções do menu...
+void ExibirOpcoesDoMenu() // Exibe as opções do menu... ?!
 {
     Console.WriteLine("Digite 1 para cadastrar uma banda");
     Console.WriteLine("Digite 2 mostrar todas as bandas");
